@@ -1,0 +1,2 @@
+#!/bin/bash
+javac collection/MySearch.java collection/MySet.java collection/MySort.java collection/MyVector.java project/Project1.java lab/Lab2.java lab/Lab3.java lab/Lab4.java project/Project2.java main/Main.java
